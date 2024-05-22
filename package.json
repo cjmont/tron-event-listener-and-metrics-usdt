@@ -1,0 +1,17 @@
+{
+  "name": "usdt_deposits",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@noble/secp256k1": "^1.7.1",
+    "bottleneck": "^2.19.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.3.3",
+    "prom-client": "^15.1.2",
+    "tronweb": "^4.2.1"
+  }
+}
