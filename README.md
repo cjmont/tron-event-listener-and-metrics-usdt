@@ -13,7 +13,7 @@ Este proyecto es una aplicación Node.js que escucha eventos de la blockchain de
 1. Clona este repositorio:
 
    ```sh
-   git clone [<url_del_repositorio>](https://github.com/cjmont/tron-event-listener-and-metrics-usdt)
+   git clone https://github.com/cjmont/tron-event-listener-and-metrics-usdt
    cd tron-event-listener-and-metrics-usdt
    ```
 
